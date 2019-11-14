@@ -1,0 +1,38 @@
+public class Example
+  {
+	integer f =5;
+	integer v =6;
+     public class void main (String agrs[])
+	{
+	  int f;
+	  int v;
+	  boolean s;
+	  
+	     f=5;
+	     v=6;
+	
+	 f+=5;
+	System.out.println("f");
+
+	 v*=f;
+	System.out.println("v");
+
+	 f--;
+	 f-=1;
+	System.out.println("f")
+	
+	 s=(60>v)? ++v:--f;
+	System.out.println("s");
+
+
+
+
+
+
+
+
+
+
+	}
+
+  }
